@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218325352825",
+    "project_id": "fluttercovoi",
+    "storage_bucket": "fluttercovoi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218325352825:android:753902c6df744ffa1eefa8",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218325352825-nshufbiggules96e4j2qcqocek5soof8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Kxte472BzlcTsFFdRO4Cbjc6W7-AgCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218325352825-nshufbiggules96e4j2qcqocek5soof8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
